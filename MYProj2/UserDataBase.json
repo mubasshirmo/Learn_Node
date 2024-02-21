@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "john henandis",
+    "email": "john@gamil.com",
+    "age": 12
+  },
+  {
+    "id": 2,
+    "name": "abdul",
+    "email": "abdul@gamil.com",
+    "age": 2
+  },
+  {
+    "id": 3,
+    "name": "Usaid",
+    "email": "Usaid@gamil.com",
+    "age": 5
+  },
+  {
+    "id": 4,
+    "name": "yusra",
+    "email": "@gamil.com",
+    "age": 1
+  },
+  {
+    "id": 1708172149116,
+    "name": " jamal akhyyy",
+    "email": "yusrjamala@gamil.com",
+    "age": 2
+  },
+  {
+    "id": 1708172525051,
+    "name": " jamal akhter",
+    "email": "jamala@gamil.com",
+    "age": 52
+  },
+  {
+    "name": " jamal akhter srn",
+    "email": "jamala@gamil.com",
+    "id": 1708172564932,
+    "age": 52
+  }
+]
